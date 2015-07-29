@@ -1,0 +1,159 @@
+http://www.eng.uci.edu/:EngineeringThe Henry Samueli School of Engineering
+http://www.ics.uci.edu/:null
+http://www.ics.uci.edu/~lopes/:null
+http://www.ics.uci.edu/~welling/:null
+http://www.uci.edu/:null
+http://www.ics.uci.edu/about/:» About
+http://www.ics.uci.edu/about/about_mission.php:» Bren ICS Mission
+http://www.ics.uci.edu/about/about_deanmsg.php:» Dean's Welcome
+http://www.ics.uci.edu/about/bren/:» About the Bren Gift
+http://www.ics.uci.edu/about/about_factsfigures.php:» Facts and Figures
+http://www.ics.uci.edu/about/brenhall/index.php:» Donald Bren Hall
+http://www.ics.uci.edu/about/visit/index.php:» Visit the Bren School
+http://www.ics.uci.edu/about/about_contact.php:» Contact Us
+http://www.ics.uci.edu/about/equity/:» Equity & Diversity
+http://www.ics.uci.edu/dept/:» Departments
+http://www.cs.uci.edu/:» Computer Science
+http://www.stat.uci.edu/:» Statistics
+http://www.ics.uci.edu/faculty/area/:» Research
+http://www.ics.uci.edu/faculty/centers/:» Research Centers
+http://www.ics.uci.edu/faculty/highlights/:» Research Highlights
+http://www.ics.uci.edu/grad/:» Graduate
+http://www.ics.uci.edu/grad/admissions/index:Prospective Students
+http://www.ics.uci.edu/grad/degrees/index:Programs of Study
+http://www.ics.uci.edu/grad/degrees/degrees_MSOverview:M.S. Degree Overview
+http://www.ics.uci.edu/grad/degrees/degrees_PhDOverview:Ph.D. Degree Overview
+http://www.ics.uci.edu/grad/courses/index:Academic Year Plan
+http://www.ics.uci.edu/grad/forms/index:Forms
+http://www.ics.uci.edu/grad/policies/index:Policies
+http://www.ics.uci.edu/grad/funding/index:Funding & Housing
+http://www.ics.uci.edu/computing/account/new:Computing Support
+http://www.ics.uci.edu/grad/resources:Campus Resources
+http://www.ics.uci.edu/about/visit/index:Visit the Bren School
+http://www.ics.uci.edu/ugrad/:» Undergraduate
+http://www.ics.uci.edu/ugrad/sao/index:Academic Advising
+http://www.ics.uci.edu/ugrad/courses/index:Academic Year Plan
+http://www.ics.uci.edu/ugrad/QA_Petitions:Petitions
+http://www.ics.uci.edu/ugrad/degrees/index.php:ICS Majors
+http://www.ics.uci.edu/ugrad/degrees/Minors:ICS Minors
+http://www.ics.uci.edu/ugrad/policies/Academic_Integrity:Policies: Academic Integrity
+http://www.ics.uci.edu/ugrad/policies/Academic_Standing:Policies: Academic Standing
+http://www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption:Policies: Add, drop, & change options
+http://www.ics.uci.edu/ugrad/policies/Course_Outside_UCI:Policies: Coursework outside UCI
+http://www.ics.uci.edu/ugrad/policies/Grade_Options:Policies: Grade policy
+http://www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse:Policies: Laptop & computer use
+http://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission:Policies: Withdrawal/Readmission
+http://www.ics.uci.edu/ugrad/QA_Graduation:Graduation
+http://www.ics.uci.edu/ugrad/resources/index:ICS Student Life
+http://www.ics.uci.edu/faculty/:» Faculty
+http://www.ics.uci.edu/about/search/index.php:» Staff
+http://www.ics.uci.edu/about/search/search_graduate_all.php:» Graduate Students
+http://www.ics.uci.edu/community/alumni/:» Alumni
+http://www.ics.uci.edu/community/friends/:» Friends
+http://www.ics.uci.edu/community/friends/leadershipcouncil/:» Leadership Council
+http://www.ics.uci.edu/community/news/:» News
+http://www.ics.uci.edu/involved/:» Get Involved
+http://www.ics.uci.edu/involved/tech_talk:» Tech Talks
+http://www.ics.uci.edu/involved/information_session:» Information Sessions
+http://www.ics.uci.edu/involved/project_class:» Sponsor Projects
+http://www.ics.uci.edu/involved/leadership_council:» Leadership Council
+http://www.ics.uci.edu/involved/corporate_partner:» Corporate Partners
+http://www.ics.uci.edu/involved/internship:» Sponsor Interns
+http://www.ics.uci.edu/community/events/butterworth/:» Butterworth Competition
+http://www.bbc.com/capital/story/20150408-a-generation-of-cyberslackers:BBC: “A generation of cyberslackers” (Mark quoted)
+http://www.ics.uci.edu/community/news/features/view_feature?id=71:Alumnus Bayan Towfiq, CEO of Flowroute Inc., discusses bootstrapping a successful startup with a tea...
+http://www.ics.uci.edu/community/news/notes/index.php:ICS graduate students receive prestigious NSF fellowship
+http://blogs.discovermagazine.com/lovesick-cyborg/2015/04/03/how-facebook-keeps-paul-walkers-memory-alive/:Discover: “How Facebook Keeps Paul Walker's Memory Alive” (Brubaker quoted)
+http://calendar.ics.uci.edu/calendar.php?calendar=1:view calendar
+http://mondego.ics.uci.edu/:Mondego
+http://www.ics.uci.edu/~lopes/dv/dv.html:Digital Voices
+http://metaverseink.com/:MetaverseInk
+http://www.calt2.net/:Calit2
+http://scholar.google.com/citations?hl=en&sortby=pubdate&user=FaY_RgsAAAAJ&view_op=list_works:Publications
+http://www.ics.uci.edu/~lopes/patents.html:Patents
+http://www.parc.com/:Palo Alto Research Center
+http://www.ccs.neu.edu/:Northeastern University
+http://www.sfsymphony.org/:San Francisco Symphony
+http://www.ics.uci.edu/~lopes/teaching/cs221W15/index.html:INF 225/ CS 221 Information Retrieval
+http://www.ics.uci.edu/~lopes/teaching/inf212W15/index.html:INF 212 / CS 253 Analysis of PLs
+http://www.ics.uci.edu/~lopes/teaching/cs221W14/index.html:INF 225/ CS 221 Information Retrieval
+http://www.ics.uci.edu/~lopes/teaching/inf212W14/index.html:INF 212 / CS 253 Analysis of PLs
+http://www.ics.uci.edu/~lopes/teaching/inf102S14/:INF 102 Programming Languages II
+http://www.ics.uci.edu/~lopes/teaching/cs221W13/index.html:CS 221 Information Retrieval
+http://www.ics.uci.edu/~lopes/teaching/cs221W12/index.html:CS 221 Information Retrieval
+http://www.ics.uci.edu/~lopes/teaching/inf212W12/index.html:INF 212 Analysis of Prog. Languages
+http://www.ics.uci.edu/~welling/research/Research.html:Research
+http://www.ics.uci.edu/~welling/NSFcareer/NSFcareer.html:My                                       NSF Career Page
+http://www.ics.uci.edu/~welling/people/people.html:People
+http://www.ics.uci.edu/~welling/publications/publications.html:Publications
+http://www.ics.uci.edu/~welling/publications_physics/publications_physics.html:Publications
+http://www.ics.uci.edu/~welling/classnotes/classnotes.html:Classnotes
+http://www.ics.uci.edu/~welling/teaching/courses.html:Teaching
+http://www.math.uci.edu/%7eicamp/:iCamp!                                           (Ugrad Research)
+http://www.uva.nl/en/about-the-uva/organisation/staff-members/content/w/e/m.welling/m.welling.html:University                                         of Amsterdam
+http://www.webstandards.org/action/previous-campaigns/buc/upgrade/:web standards
+http://www.uci.edu/css/global.min.css:null
+http://www.uci.edu/css/site.css:null
+http://www.uci.edu/css/homepage-uci.edu.css:null
+http://www.uci.edu/css/flexslider-uci.edu.min.css:null
+http://www.uci.edu/css/magnific-popup.min.css:null
+http://www.students.uci.edu/:Students
+http://www.uci.edu/about/index.php:About
+http://www.uci.edu/facts/index.php:Overview
+http://www.uci.edu/distinctions/index.php:Distinctions
+http://www.uci.edu/facts/campus-data.php:Campus Data
+http://www.strategicplan.uci.edu/:Strategic Plan
+http://www.uci.edu/innovation/index.php:Spotlights on Innovation
+http://chancellor.uci.edu/:Chancellor
+http://www.uci.edu/peter/index.php:Peter the Anteater
+http://www.uci.edu/diversity/index.php:Diversity
+http://www.uci.edu/administration/index.php:Administration
+http://directory.uci.edu/:Directory
+http://www.uci.edu/visit/index.php:Visit UC Irvine
+http://www.uci.edu/about/employment.php:Work at UC Irvine
+http://give.uci.edu/:Support UC Irvine
+http://www.uci.edu/admissions/index.php:Admissions
+http://www.admissions.uci.edu/:Undergraduate Admission
+http://www.grad.uci.edu/admissions/:Graduate Admission
+http://merage.uci.edu/:Business
+http://www.meded.uci.edu/admissions/:Medicine
+http://www.admissions.uci.edu/prospective_international/:Undergraduate International Admissions
+http://housing.uci.edu/:Housing
+http://www.uci.edu/academics/index.php:Academics
+http://www.arts.uci.edu/:ArtsClaire Trevor School of the Arts
+http://www.bio.uci.edu/:Biological SciencesFrancisco J. Ayala School of Biological Sciences
+http://education.uci.edu/:EducationSchool of Education
+http://www.eng.uci.edu/:EngineeringThe Henry Samueli School of Engineering
+http://www.editor.uci.edu/catalogue/idp/idp.1.htm:Interdisciplinary StudiesInterdisciplinary Studies
+http://som.uci.edu/:MedicineSchool of Medicine
+http://www.nursing.uci.edu/:Nursing ScienceProgram in Nursing Science
+http://pharmsci.uci.edu/:Pharmaceutical SciencesDepartment of Pharmaceutical Sciences
+http://publichealth.uci.edu/:Public HealthProgram in Public Health
+http://socialecology.uci.edu/:Social EcologySchool of Social Ecology
+http://www.socsci.uci.edu/:Social SciencesSchool of Social Sciences
+http://www.editor.uci.edu/catalogue/:General Catalogue
+http://www.admissions.uci.edu/about/majors_and_minors.html:Majors & Minors
+http://www.grad.uci.edu/:Graduate Division
+http://lib.uci.edu/:Libraries
+http://www.cie.uci.edu/:Study Abroad Center
+http://summer.uci.edu/:Summer Session
+http://unex.uci.edu/:University Extension
+http://www.reg.uci.edu/navigation/calendars.html:Academic Calendars
+http://www.uci.edu/research/index.php:Research
+http://www.research.uci.edu/:Office of Research
+http://www.ota.uci.edu/:Office of Technology Alliances
+http://research.uci.edu/centers-institutes/:All Research Centers & Units
+http://ucop.edu/research-graduate-studies/:UCOP Office of Research
+http://www.grad.uci.edu/postdoctoral-scholars/:Post-Doc
+http://www.grad.uci.edu/about-us/research/index.html:Graduate Research
+http://www.uci.edu/community/index.php:Community
+http://www.arts.uci.edu/calendar/:Arts
+http://www.cfep.uci.edu/cfep/pgm_cat.php:K-12 Programs
+http://today.uci.edu/:Campus Events Calendar
+http://www.ucirvinehealth.org/:Hospital
+http://www.ucirvinehealth.org/medical-services/:Medical Services
+http://www.ucirvinehealth.org/clinical-trials/:Clinical Trials
+http://news.uci.edu/features/national-conference-opens-flow-of-ideas-on-drought/:null
+http://news.uci.edu/features/lauds-laurels-to-salute-18-campus-luminaries/:null
+http://news.uci.edu/greenland/:null
+http://news.uci.edu/features/sowing-the-seeds-of-change/:null

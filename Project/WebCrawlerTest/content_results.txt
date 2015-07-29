@@ -1,0 +1,699 @@
+url->http://quickpayday.tripod.co.uk/-----------> spam
+url->http://quickpayday.tripod.co.uk/adm/css/reset.css-----------> spam
+url->http://quickpayday.tripod.co.uk/adm/css/webon.css-----------> spam
+url->http://quickpayday.tripod.co.uk/adm/css/colorbox.css-----------> spam
+url->http://quickpayday.tripod.co.uk/adm/css/layout/2cr.css-----------> spam
+url->http://csslib.webon.lycos.com/library/9c/2a/10908.css-----------> spam
+url->http://quickpayday.tripod.co.uk/index.html-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/ ------------->  not spam
+url->http://www.tripod.lycos.co.uk/-----------> spam
+url->http://www.wral.com/rs/rss/6543336/?blog-----------> spam
+url->http://wwwcache.wral.com/presentation/v3/styles/content/blogs/blog_newsletter.css-----------> spam
+url->http://fonts.googleapis.com/css?family=PT%2BSans%3A400%2C400italic%2C700%7CDroid%2BSans%3A400%2C700%7CArvo%3A400%2C700-----------> spam
+url->http://www.wral.com/marketplace/automotive/-----------> spam
+url->http://www.wral.com/consumer/circulars/-----------> spam
+url->http://classifieds.wral.com/-----------> spam
+url->http://www.wral.com/marketplace/employment/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2F5onyourside%2Fsmartshopper%2F-----------> spam
+url->http://www.wral.com/rs/page/2173159/?s=password_recovery-----------> spam
+url->http://topnews-uk.eu/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?s=registration-----------> spam
+url->http://www.wral.com/ ------------->  not spam
+url->http://www.wral.com/news/ ------------->  not spam
+url->http://www.wral.com/news/local/ ------------->  not spam
+url->http://www.wral.com/news/state/-----------> spam
+url->http://www.herbalshopku.com/-----------> spam
+url->http://shop.a2ztrade.in/-----------> spam
+url->http://www.northcarolinaphonelookup.com/-----------> spam
+url->http://www.wral.com/weather/hurricanes/ ------------->  not spam
+url->http://www.wral.com/news/state/nccapitol/ ------------->  not spam
+url->http://www.wral.com/traffic/-----------> spam
+url->http://www.wral.com/news/local/wral_investigates/-----------> spam
+url->http://www.wral.com/news/national_world/national/-----------> spam
+url->http://www.wral.com/news/national_world/world/-----------> spam
+url->http://www.wral.com/weather/almanac/ ------------->  not spam
+url->http://www.wral.com/news/political/ ------------->  not spam
+url->http://www.wral.com/weather/blog/1028424/ ------------->  not spam
+url->http://digg.com/ ------------->  not spam
+url->http://www.wral.com/news/education/-----------> spam
+url->http://www.wral.com/news/local/documentaries/-----------> spam
+url->http://www.wral.com/weather/asset_gallery/13051669/ ------------->  not spam
+url->http://www.wral.com/weather/image_gallery/13264614/-----------> spam
+url->http://www.wralsportsfan.com/ ------------->  not spam
+url->http://www.wralsportsfan.com/voices/page/3476225/ ------------->  not spam
+url->http://www.wralsportsfan.com/voices/blog/12368982/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/6348185/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/6348027/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/13905160/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/3575739/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/12828590/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/3575805/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/10017207/-----------> spam
+url->http://www.wralsportsfan.com/voices/blog/3575749/-----------> spam
+url->http://www.wralsportsfan.com/ncsu/-----------> spam
+url->http://www.wralsportsfan.com/unc/ ------------->  not spam
+url->http://www.wralsportsfan.com/duke/ ------------->  not spam
+url->http://www.wralsportsfan.com/ecu/-----------> spam
+url->http://www.wralsportsfan.com/hurricanes/ ------------->  not spam
+url->http://www.wralsportsfan.com/panthers/ ------------->  not spam
+url->http://www.highschoolot.com/ ------------->  not spam
+url->http://www.wralsportsfan.com/bulls/-----------> spam
+url->http://www.reddit.com/-----------> spam
+url->http://www.wral.com/news/public_records/-----------> spam
+url->http://wral.tributes.com/national/home-----------> spam
+url->http://www.wral.com/news/greenguide/-----------> spam
+url->http://www.tripod.lycos.com/pricing/-----------> spam
+url->http://www.wral.com/news/local/crime/-----------> spam
+url->http://www.wralsportsfan.com/golf/ ------------->  not spam
+url->http://www.wral.com/news/strange/-----------> spam
+url->http://www.wral.com/sitemap/-----------> spam
+url->http://www.wralsportsfan.com/soccer/ ------------->  not spam
+url->http://www.wralsportsfan.com/mlb/-----------> spam
+url->http://studio-5.financialcontent.com/wral/ ------------->  not spam
+url->http://www.wralsportsfan.com/nba/-----------> spam
+url->http://markets.financialcontent.com/wral/markets/news-----------> spam
+url->http://www.wralsportsfan.com/nfl/-----------> spam
+url->http://markets.financialcontent.com/wral/user/recentquotes-----------> spam
+url->http://www.wral.com/motorcyclist-killed-in-wreck-east-of-clayton/14603229/ ------------->  not spam
+url->http://www.wralsportsfan.com/nhl/-----------> spam
+url->http://markets.financialcontent.com/wral/stocks/dashboard-----------> spam
+url->http://www.wral.com/three-firefighters-injured-in-harnett-county-factory-fire/14602329/ ------------->  not spam
+url->http://www.wralsportsfan.com/tennis/-----------> spam
+url->http://www.wralsportsfan.com/fishing/image_gallery/14359061/-----------> spam
+url->http://www.wralsportsfan.com/panthers-cam-newton-ready-for-spring-summer-workouts/14603851/ ------------->  not spam
+url->http://www.wralsportsfan.com/a-rod-s-hot-start-the-latest-twist-in-ped-puzzle/14594132/ ------------->  not spam
+url->http://www.wralsportsfan.com/growing-guard-drain-will-influence-acc-pecking-order/14588943/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14551532/-----------> spam
+url->http://www.wral.com/business/taxguide/-----------> spam
+url->http://www.wralsportsfan.com/major-food-at-minor-league-park/14586532/ ------------->  not spam
+url->http://contests.wral.com/upickem/registration/login.asp?contestid=168292-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14421313/-----------> spam
+url->http://www.wral.com/business/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=75-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=82-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=83-----------> spam
+url->http://wraltechwire.com/ ------------->  not spam
+url->http://www.wral.com/entertainment/lottery/-----------> spam
+url->http://www.wral.com/entertainment/contests/-----------> spam
+url->http://www.wral.com/entertainment/games/-----------> spam
+url->http://www.wral.com/what-could-mcdonald-s-do-to-fix-its-business-/14603282/ ------------->  not spam
+url->http://www.wral.com/triangle-foodie-news-southern-season-opening-raleigh-location-next-month/14600968/-----------> spam
+url->http://www.wral.com/comcast-is-dropping-45-billion-time-warner-cable-bid/14603148/ ------------->  not spam
+url->http://www.wral.com/weekend-best-bets-brewgaloo-art-of-cool/14594395/ ------------->  not spam
+url->http://www.wral.com/hello-facebook-launches-phone-calling-app-for-android/14599428/-----------> spam
+url->http://www.wral.com/review-plenty-of-options-for-hbo-online-not-enough-time/14598108/ ------------->  not spam
+url->http://www.wral.com/feeling-safe-try-attending-internet-security-conference/14599330/ ------------->  not spam
+url->http://www.wral.com/Attractions/Southern-Womens-Show/14494885/-----------> spam
+url->http://www.wral.com/entertainment/horoscopes/-----------> spam
+url->http://www.wral.com/google-wireless-phone-service-challenges-major-carriers/14599362/ ------------->  not spam
+url->http://www.wral.com/still-got-it-facebook-mobile-ad-revenue-continues-to-surge/14599547/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/page/10004483/ ------------->  not spam
+url->http://www.wral.com/Wake-County-crime-map/5644254/-----------> spam
+url->http://www.wral.com/wake-county-nc-arrest-photos/8981628/-----------> spam
+url->http://www.wral.com/downtown_raleigh_party_pics/13333950/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4996688/-----------> spam
+url->http://www.wral.com/news/local/crime/page/13305049/-----------> spam
+url->http://www.wral.com/video/ ------------->  not spam
+url->http://www.wral.com/consumer/-----------> spam
+url->http://www.wral.com/weather/video/1076424/-----------> spam
+url->http://www.wral.com/weather/ ------------->  not spam
+url->http://www.wral.com/5onyourside/-----------> spam
+url->http://www.wral.com/news/video/1076526/-----------> spam
+url->http://www.wral.com/news/video/2570000/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/page/9266662/-----------> spam
+url->http://www.wral.com/5onyourside/restaurants/page/1001540/-----------> spam
+url->http://www.wral.com/news/video/1075494/-----------> spam
+url->http://www.wral.com/5onyourside/nailsalons/page/1001541/-----------> spam
+url->http://www.wral.com/news/video/1075498/-----------> spam
+url->http://www.wral.com/5onyourside/asset_gallery/1107971/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/page/9694431/-----------> spam
+url->http://www.wral.com/5onyourside/consumer_complaints/page/1001542/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/blogpost/10798759/ ------------->  not spam
+url->http://www.wral.com/shop-and-prepare-carefully-to-kill-bacteria-on-frozen-shrimp/14603289/-----------> spam
+url->http://www.wral.com/review-getting-your-apple-watch-here-s-how-to-use-it/14602599/ ------------->  not spam
+url->http://www.wral.com/wral-tv/video/14601030/-----------> spam
+url->http://www.wral.com/entertainment/lottery/video/6938100/ ------------->  not spam
+url->http://www.wral.com/5onyourside/blog/11951281/-----------> spam
+url->http://www.wral.com/lifestyles/ ------------->  not spam
+url->http://www.wral.com/lifestyles/healthteam/-----------> spam
+url->http://www.wral.com/printable-coupon-websites/10771934/ ------------->  not spam
+url->http://www.wral.com/wral-tv/tv_schedule/-----------> spam
+url->http://www.wral.com/lifestyles/goaskmom/-----------> spam
+url->http://www.wral.com/entertainment/watch_cbs_shows/-----------> spam
+url->http://www.wral.com/wral-tv/video/14604974/-----------> spam
+url->http://www.wral.com/wral-tv/video/14605022/-----------> spam
+url->http://www.wral.com/wral-tv/aboutus/page/1010704/ ------------->  not spam
+url->http://www.wral.com/cvs-deals-4-26-colgate-mouthwash-mascara-laundry-more-/14604165/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=368-----------> spam
+url->http://www.wral.com/Contact-Us/1007423/-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14604165-----------> spam
+url->http://www.wral.com/wral-news-launching-4pm-newscast/14340034/ ------------->  not spam
+url->http://www.wral.com/what-s-for-dinner-this-weekend-/14604543/-----------> spam
+url->http://www.wral.com/lifestyles/pets/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=338-----------> spam
+url->http://www.wral.com/lifestyles/family/-----------> spam
+url->http://www.wral.com/entertainment/page/11912238/-----------> spam
+url->http://www.wral.com/wral-tv/aboutus/page/1001311/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=336-----------> spam
+url->http://www.wral.com/marketplace/clients/page/3661777/-----------> spam
+url->http://www.wral.com/lifestyles/house_and_home/-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14604543-----------> spam
+url->http://www.wral.com/share-your-deals-questions-weekend-edition/14604541/-----------> spam
+url->http://www.wral.com/lifestyles/food/-----------> spam
+url->http://www.wral.com/dollar-general-5-off-25-coupon-valid-today-/14605050/-----------> spam
+url->http://www.wral.com/lifestyles/healthyrecipes/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=348 ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=333 ------------->  not spam
+url->http://www.wral.com/5onyourside/flash/2603702/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=536-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14604541-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=344 ------------->  not spam
+url->http://www.wral.com/lifestyles/travel/-----------> spam
+url->http://www.wral.com/diet-pepsi-dropping-aspartame-on-customer-concerns/14603265/ ------------->  not spam
+url->http://www.wral.com/sex-club-seeks-nashville-blessing-by-vowing-to-be-a-church/14602805/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=350 ------------->  not spam
+url->http://www.wral.com/harris-teeter-friday-e-vic-specials-milk-deal-/14602547/ ------------->  not spam
+url->http://www.wral.com/share/page/1896337/?id=14602547-----------> spam
+url->http://www.wral.com/five-questions-hiring-a-birth-doula/14594214/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=351-----------> spam
+url->http://www.wral.com/savingstar-friday-freebie-morton-salt/14603025/ ------------->  not spam
+url->http://www.wral.com/share/page/1896337/?id=14605050-----------> spam
+url->http://www.wral.com/raleigh-church-plans-daddy-daughter-dance/14594298/-----------> spam
+url->http://www.wral.com/lifestyles/pets/image_gallery/14590751/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=345-----------> spam
+url->http://www.wral.com/lifestyles/pets/image_gallery/14553340/-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14603025-----------> spam
+url->http://www.wral.com/lifestyles/pets/video/14594849/-----------> spam
+url->http://www.wral.com/kroger-friday-freebie-lindt-lindor-stick/14602544/-----------> spam
+url->http://www.wral.com/entertainment/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=352-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=77-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14602544-----------> spam
+url->http://www.wral.com/welcome-couponers-from-the-southern-women-s-show-classes-/14602341/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=84%2C85%2C86%2C90%2C89%2C91%2C98%2C97%2C94%2C87%2C88%2C96%2C92%2C93-----------> spam
+url->http://www.wral.com/what-s-for-dinner-friday-/14602535/ ------------->  not spam
+url->http://www.wral.com/share/page/1896337/?id=14602535 ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=78-----------> spam
+url->http://www.wral.com/share-your-deals-questions-4-24/14602534/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=337 ------------->  not spam
+url->http://www.wral.com/share/page/1896337/?id=14602534-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?t=341 ------------->  not spam
+url->http://www.wral.com/share/page/1896337/?id=14602341-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=128-----------> spam
+url->http://www.wral.com/super-new-coupons-for-taco-shells-cereal-and-more-/14601832/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=79-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14601832-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=80-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=76-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=74-----------> spam
+url->http://www.wral.com/just-the-basics-weekly-deals/14601281/-----------> spam
+url->http://www.wral.com/world-war-ii-bomb-detonated-at-new-jersey-military-base/14602998/-----------> spam
+url->http://www.wral.com/share/page/1896337/?id=14601281-----------> spam
+url->http://www.wral.com/romania-robbers-trained-to-steal-jewels-cars-detained/14602843/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?s=1 ------------->  not spam
+url->http://www.wral.com/small-herd-of-loose-buffalo-crosses-new-york-state-thruway/14603696/ ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?s=2 ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?s=3 ------------->  not spam
+url->http://www.wral.com/5onyourside/smartshopper/?s=4 ------------->  not spam
+url->http://www.wral.com/rs/bio/13234286/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/?s=5 ------------->  not spam
+url->http://www.wral.com/rs/page/2101310/?add%5B%5D=smartshopper&subscribe=1-----------> spam
+url->http://www.wral.com/college-s-goat-and-sheep-guarding-donkey-has-surprise-birth/14604030/-----------> spam
+url->http://www.wral.com/manure-trade-show-s-slogan-contest-produces-pile-of-entries/14603691/-----------> spam
+url->http://www.wral.com/swedish-police-on-vacation-break-up-fight-on-new-york-subway/14603787/-----------> spam
+url->http://www.wral.com/mix-101-5-radiothon-moves-to-the-weekend/14599064/-----------> spam
+url->http://www.wral.com/come-say-hi-wral-personalities-at-weekend-events/14599422/-----------> spam
+url->http://www.wral.com/entertainment/video/14604199/ ------------->  not spam
+url->http://www.wral.com/wral-tv/image_gallery/14597144/-----------> spam
+url->http://www.wral.com/news/video/14348674/-----------> spam
+url->http://www.wral.com/wral-investigates-big-problems-in-local-green-homes/14602007/-----------> spam
+url->http://www.wral.com/frugal-living-series-grocery-store-coupon-policies-and-reward-programs/13537093/-----------> spam
+url->http://www.wral.com/wral-tv/image_gallery/14602927/-----------> spam
+url->http://www.wral.com/price-book-best-prices-for-groceries/7385543/-----------> spam
+url->http://www.wral.com/wral-tv/video/14600840/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/asset_gallery/7940496/-----------> spam
+url->http://www.wral.com/news/local/video/14602242/-----------> spam
+url->http://www.wral.com/lifestyles/food/page/10936918/-----------> spam
+url->http://www.wral.com/wral-documentary-state-of-mine/14581601/-----------> spam
+url->http://www.wral.com/5onyourside/smartshopper/asset_gallery/13445273/-----------> spam
+url->http://www.wral.com/weather/image_gallery/14544954/-----------> spam
+url->http://topnews-uk.eu/topnews/day-leads-after-weatherhit-second-round-in-new-orleans-----------> spam
+url->http://www.wral.com/tracking-who-gives-what-to-nc-lawmakers/14586531/ ------------->  not spam
+url->http://topnews-uk.eu/topnews/angelina-jolie-scolds-un-security-council-for-inaction-on-syria-refugees-jerusalem-post-israel-news-----------> spam
+url->http://www.smartspendingresources.com/class_schedule-----------> spam
+url->http://www.wral.com/lawmakers-safety-training-imperative-for-concealed-carry-permits/14604045/ ------------->  not spam
+url->http://www.smartspendingresources.com/home-----------> spam
+url->http://www.wral.com/extraordinary-moment-olympian-identifies-as-transgender/14604742/ ------------->  not spam
+url->http://www.wral.com/police-body-cam-footage-not-public-record-under-nc-bill/14601688/ ------------->  not spam
+url->http://www.wral.com/exotic-animals-bill-has-sanctuary-operators-roaring/14604172/ ------------->  not spam
+url->http://topnews-uk.eu/topnews/anderson-leads-england-charge-on-last-day-of-2nd-test-----------> spam
+url->http://www.wral.com/wral-tv/aboutus/ ------------->  not spam
+url->http://www.wral.com/wral-tv/image_gallery/14604898/-----------> spam
+url->http://www.wralworks.com/-----------> spam
+url->http://www.wral.com/weather/image_gallery/1219306/-----------> spam
+url->http://www.wral.com/rs/page/14295546/-----------> spam
+url->http://topnews-uk.eu/topnews/stoke-1-sunderland-1-adam-equaliser-sends-black-cats-into-relegation-zone-----------> spam
+url->http://www.wral.com/two-dead-after-police-chase-ends-in-crash-in-moore-county/14604413/-----------> spam
+url->http://www.wral.com/wral-tv/aboutus/page/7249189/-----------> spam
+url->http://topnews-uk.eu/topnews/authorities-mom-of-dead-newborn-found-at-college-is-student-----------> spam
+url->http://topnews-uk.eu/topnews/love-cookies-helped-sisters-lost-in-michigan-woods-survive-----------> spam
+url->http://www.wral.com/rain-showers-cool-temps-on-tap-for-saturday/14604542/-----------> spam
+url->http://topnews-uk.eu/topnews/linda-thompson-its-impossible-to-fully-grasp-what-an-imprisonment-bruce-people-magazine-----------> spam
+url->http://www.wral.com/strong-earthquake-felt-in-nepal-s-capital/14604720/ ------------->  not spam
+url->http://topnews-uk.eu/topnews/steve-nicol-believes-liverpool-should-appoint-jurgen-klopp-squawka-football-news-----------> spam
+url->http://www.wral.com/lifestyles/pets/video/14605066/-----------> spam
+url->http://topnews-uk.eu/top-news-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=from%2Brusholme%2Bwith%2Blove-----------> spam
+url->http://topnews-uk.eu/world-news-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=project%2Bp%2Bi%2Bgive%2Byou%2Btrance-----------> spam
+url->http://topnews-uk.eu/us-news-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=ugarte%2Bpascual%2Bduo%2Bal%2Bsur%2Bde%2Btu%2Bcorazon-----------> spam
+url->http://topnews-uk.eu/uk-news-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=allah%2Bhoo%2Ballah%2Bhoo%2Bby%2Bfarhan%2Bali%2Bqadri-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=paramore%2Bpressure%2Bacoustic%2Bhard%2Brock%2Bcafe%2Bsynthesis-----------> spam
+url->http://topnews-uk.eu/politics-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=blur%2Bgameplay%2Bhd%2B1-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=juced-----------> spam
+url->http://topnews-uk.eu/business-----------> spam
+url->http://topnews-uk.eu/sports-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=sanwali%2Bsaloni%2Bteri%2Bjheel%2Bsi%2Bold%2Bmp3%2Bdownload-----------> spam
+url->http://topnews-uk.eu/health-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=carly%2Brose%2Bsonenclar%2Bmonsters%2Bmen-----------> spam
+url->http://topnews-uk.eu/lifestyle-----------> spam
+url->http://topnews-uk.eu/tv-showbiz-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=zamana%2Bhussain%2Bka%2Bakram%2Baslam%2Bmubarak%2Bsabri-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=%C3%A2%E2%82%AC%E2%80%9C%2Bone%2Blove-----------> spam
+url->http://topnews-uk.eu/celebrity-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=i%2Bwill%2Bremember%2Bthe%2Bdeeds%2Bof%2Bthe%2Blord%2Bpsalm%2Bdavid%2Bmitch-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=if%2Bever%2Bin%2Byoure%2Bin%2Bmy%2Barms%2Bagain%2Bpeabo%2Bbryson-----------> spam
+url->http://topnews-uk.eu/entertainment-----------> spam
+url->http://topnews-uk.eu/science-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=jesus%2Bname%2Babove%2Ball%2Bname-----------> spam
+url->http://topnews-uk.eu/technology-----------> spam
+url->http://wral.hpw.com/-----------> spam
+url->http://topnews-uk.eu/travel-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=take%2Bme%2Bhome%2Btonight%2Bcover-----------> spam
+url->http://topnews-uk.eu/cars-engine-----------> spam
+url->http://topnews-uk.eu/topnews/protesters-vow-to-shut-down-baltimore-after-new-disclosures-about-freddie-grays-death-----------> spam
+url->http://topnews-uk.eu/food-drink-----------> spam
+url->http://topnews-uk.eu/video-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=4%2Bsolomon%2Bof%2Bmidwest%2Bcity%2Bi%2Bwish%2Byou%2Bknew%2Blegacyremain2-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=deep%2Bworship%2Bsongs-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=zara%2Bc%2Bbaat-----------> spam
+url->http://topnews-uk.eu/topnews/caterpillar-fungus-could-hold-the-key-to-relieving-the-pain-of-osteoarthritis-science-daily-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=mumtaz%2Bmolai%2Bnew%2Balbum%2B3%2Bjati%2Bmohsa%2Bshor%2B1-----------> spam
+url->http://topnews-uk.eu/topnews/everton-v-manchester-united-match-preview-the-guardian-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=rocio%2Bdurcal%2Bati-----------> spam
+url->http://www.pwtthemes.com/-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=wisin%2By%2Byandel%2Bwisin%2By%2Byandel%2Bdale%2Belectrica%2Blos%2Bvaquer-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=music%2Bfrom%2Bthe%2Btwilight%2Bsaga%2Bpiano%2Binstrumentals-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/slideshow.css-----------> spam
+url->http://topnews-uk.eu/topnews/buffalo-herd-swims-across-river-seen-on-the-loose-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/carousel.css-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=man%2Blink%2Bup-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=probata-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/stylesheet.css-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=terry%2Brichardson%2Bbaron%2Bvon%2Bluxxury-----------> spam
+url->http://topnews-uk.eu/topnews/79magnitude-earthquake-rocks-nepal-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/cloud-zoom.css-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=20081201-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/flexslider.css-----------> spam
+url->http://topnews-uk.eu/page-2-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=ouran%2Bhighschool%2Bhost%2Bclub%2Btheme%2Bsong%2Bdubbed-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/theme/gazal/stylesheet/ui.totop.css-----------> spam
+url->http://www.herbalshopku.com/xmlrpc.php-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=yo%2Bbusco%2Buna%2Brazon%2Bpara%2Bvivir-----------> spam
+url->http://shop.a2ztrade.in/catalog/view/javascript/jquery/colorbox/colorbox.css-----------> spam
+url->http://www.herbalshopku.com/wp-content/themes/kasa-green/style.css?ver=4.1.1-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=01%2Bnon%2B232%2Bfacile%2Bla%2Bpegatina%2Beureka-----------> spam
+url->http://www.herbalshopku.com/xmlrpc.php?rsd-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=account%2Flogin-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=akon%2Bfeat%2Bredd%2Bhtt-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=pitt%2Bball%2Brain%2Bon%2Bme-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=account%2Fregister-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=aqworlds%2Bphilipines%2Bnational%2Banthem-----------> spam
+url->http://www.herbalshopku.com/?page_id=2-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=hmmhmm-----------> spam
+url->http://www.herbalshopku.com/?p=1-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=say%2Baguilera%2Bchristina%2Bsomething-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=checkout%2Fcart-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=frozen%2Bost-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=activence%2Bactivence-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=8kltzud0%2B3wej%2B33d5%2Bos2x%2Bc7474q4r4405-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=common%2Fhome-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=%C3%A1%C6%92%C2%A6%C3%A2%E2%84%A2%C2%A5%C3%A1%C6%92%C2%A6%2Bta%2Bsamaya-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=nikos%2Bkiou-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=nabi%2Bke%2Bnawase%2Bhussain%2Bibne%2Bhaider%2Bby%2Bfarhan%2Bali%2Bqadri-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=tamma%2Btamma%2Bloge%2Bfrom%2Bthanedar-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=melamun%2Bsetia-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=cheba%2Bsara%2Bhadou%2Bmalhom%2Blive%2Bdjawhara%2B2013-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=luci%2Blazar%2Bsi%2Bcolindatorii%2Bcolo%2Bsus%2Bsi%2Bmai%2Bsus-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=vival-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=why%2Bdo%2Bi%2Blove%2Byou%2Bby%2Bal%2Bmartino-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=la%2Borquestina-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=electronic%2Binfinity%2Bhip%2Bhop-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=arash%2Bchori%2Binstrumental-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=tattoo%2Bby%2Bjordin%2Bsparks%2Bnot-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=michale%2Bjacksen%2Bsong-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=lagu%2Bambon%2Bdodi%2Bjujur-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=keep%2Bmoving%2Bfive-----------> spam
+url->http://www.herbalshopku.com/?m=201501-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Teleshopping-Non-Electrical-Appliances-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=sucka%2Bdirty%2Baugust%2Balsina-----------> spam
+url->http://www.herbalshopku.com/?cat=1-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Woman-Accessories-Hair-Styler-Massagers-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=yogunistekuzerinegeldim%2Bvega-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=john%2Blennon%2Byou%2Bare%2Bhere-----------> spam
+url->http://www.herbalshopku.com/wp-login.php-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Man-Accessories-Sunglasses-Wallet-Cloths-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=loyal%2Bchris%2Bbrown%2Bbrown%2Bchris%2Bloyal%2Bloyal-----------> spam
+url->http://www.herbalshopku.com/?feed=rss2-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Health-Product-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=boston%2Bsmokin%2Bfof-----------> spam
+url->http://shop.a2ztrade.in/Tele-Shopping-Products-Tele-Brand-Seen-on-TV-Products/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=khaliha%2Bbini%2Bw%2Bbinek-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=grup%2Balem%2Bhalaylar%2B2010%2Bpart%2B2-----------> spam
+url->http://www.herbalshopku.com/?feed=comments-rss2-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Medicine-Vitamins-Nutrition-Supplement-Westcoast-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=warcry%2Bsin%2Btu%2Bvoz-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Massage-Oil-And-Massage-Cream-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=tus%2Bamigas%2By%2Bamigos%2Bpara%2Bsiempre%2Bu003c%2B3%2Btill%2Bthe%2Bend-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=%C3%AB%C2%B0%E2%82%AC%C3%AD%EF%BF%BD%C2%AC%C3%AD%E2%80%B9%C2%B0%2Bmilktea%2Bbe%2Bmy%2Blove-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Anti-Addiction-No-Addiction-Full-Stop-Zero-Addiction-Stop-Nasha-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/Slimming-Oil-And-Cream-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=jeevain%2Baaj%2Bchalay%2Btu%2Bdil%2Bmera%2Btod%2Bke-----------> spam
+url->http://www.herbalshopku.com/842b.php?s=mann%2Bthe%2Bmac-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Memory-Increasing-Height-Inceasing-----------> spam
+url->http://shop.a2ztrade.in/Home-----------> spam
+url->http://shop.a2ztrade.in/Diya-White-Dial-Steel-Straps-Watch-----------> spam
+url->http://shop.a2ztrade.in/Home/Home-Appliances-Electrical-Appliances-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Sexual-Enhancement-Powder-And-Tonic-Power-Prash-Super-Prash-Shakti-Prash-Power-Tonic-----------> spam
+url->http://shop.a2ztrade.in/Diya-White-or-Ivory-Dial-Golden-Straps-Watch-----------> spam
+url->http://shop.a2ztrade.in/Home/vacuum-----------> spam
+url->http://shop.a2ztrade.in/Diya-Black-Dial-Golden-Straps-Watch-----------> spam
+url->http://shop.a2ztrade.in/Auto-Accessories-----------> spam
+url->http://shop.a2ztrade.in/Home/pc-----------> spam
+url->http://shop.a2ztrade.in/Apple-Style-Led-Watch-Black-----------> spam
+url->http://shop.a2ztrade.in/Auto-Accessories/Air-Freshener-Room-Freshener-Car-Freshener-----------> spam
+url->http://shop.a2ztrade.in/Hen-Germany-Stainless-Steel-Knife-----------> spam
+url->http://shop.a2ztrade.in/Kitchen-Appliances-----------> spam
+url->http://shop.a2ztrade.in/Woman-Man-Cloth-Accessories-Dress-Materials-----------> spam
+url->http://shop.a2ztrade.in/Decent-3-Pcs-Knife-Set-----------> spam
+url->http://shop.a2ztrade.in/Kitchen-Appliances/Electric-Kitchen-Appliance-----------> spam
+url->http://shop.a2ztrade.in/Apex-Sleek-Slicer-----------> spam
+url->http://shop.a2ztrade.in/Sigma-4-Pcs-Kives-Set-----------> spam
+url->http://shop.a2ztrade.in/Kitchen-Appliances/Non-Electric-Kitchen-Appliances-----------> spam
+url->http://shop.a2ztrade.in/Apex-4-in-1-Slicer-Grater-----------> spam
+url->http://shop.a2ztrade.in/Woman-Man-Cloth-Accessories-Dress-Materials/Hair-Styler-Nova-Instyler-Roto-Air-----------> spam
+url->http://shop.a2ztrade.in/Hair-Building-Fiber-Hair-Care-Product-Dexi-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing-----------> spam
+url->http://www.tripod.lycos.co.uk/common/css/3uk.css-----------> spam
+url->http://shop.a2ztrade.in/Woman-Man-Cloth-Accessories-Dress-Materials/Sunglasses-----------> spam
+url->http://www.tripod.lycos.co.uk/common/css/3ukHP.css-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing/Gems-Zodiac-Ring-And-Pendants-----------> spam
+url->http://shop.a2ztrade.in/Woman-Man-Cloth-Accessories-Dress-Materials/Slim-N-Fit-Air-Bra-----------> spam
+url->http://shop.a2ztrade.in/Fun-And-Stuff-Kids-Gift-Water-Bottle-----------> spam
+url->http://shop.a2ztrade.in/Fun-And-Stuff-Kids-Gift-Water-Bottle/Kids-Special-Watch-Water-Bottle-Birtday-Gift-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing/Kavach-Full-Kit-Amulet-Raksha-Kavach-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing/Rasshi-Rattan-Nine-Planet-Gems-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/Hair-Building-Fiber-Hair-Care-Product-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing/Riddhi-Siddhi-Item-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/Bio-Magnetic-Bracelets-and-Pendants-----------> spam
+url->http://shop.a2ztrade.in/Religious-and-Healing-Ganeshas-Home-Temples-Puja-Accessories-Reiki-Religious-Idols-Shree-Yantras-Vaastu-More-Religious-and-Healing/Rudraksha-Religious-And-Healing-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/FULL-BODY-MASSAGER-NECK-MASSAGER-Derma-Seta-Dolphin-Infrared-Mimo-Usb-Massager-Robot-Massager-----------> spam
+url->http://shop.a2ztrade.in/index.php?information_id=4&route=information%2Finformation-----------> spam
+url->http://www.tripod.lycos.co.uk/help/password.tmpl-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/Skin-Treatment-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=product%2Fspecial-----------> spam
+url->http://shop.a2ztrade.in/Health-and-Fitness/FITNESS-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=product%2Fmanufacturer-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=information%2Fcontact-----------> spam
+url->http://shop.a2ztrade.in/index.php?route=news%2Fheadlines-----------> spam
+url->http://shop.a2ztrade.in/breast-up-breast-enhancer-as-seen-on-tv?keyword=Breast%20U-----------> spam
+url->http://shop.a2ztrade.in/Ayurvedic-Products-Health-Products/Memory-Up-an-ayurvedic-remedy-to-enhance-brainpower-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fmarketplace%2Fautomotive%2F-----------> spam
+url->http://shop.a2ztrade.in/Kitchen-Appliances/Electric-Kitchen-Appliance/21-in-1-Party-Mixer-Blender-Juicer-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fconsumer%2Fcirculars%2F-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fclassifieds.wral.com%2F-----------> spam
+url->http://shop.a2ztrade.in/Slim-N-Lift-Body-Shaper?keyword=sLIM%20N%20LIFT-----------> spam
+url->http://shop.a2ztrade.in/Home/Home-Non-Electrical-Appliances-----------> spam
+url->http://shop.a2ztrade.in/Home/Electrical-Appliances-Home-----------> spam
+url->http://classifieds.wral.com/?a=28&b=146 ------------->  not spam
+url->http://classifieds.wral.com/category/194/ATVs.html-----------> spam
+url->http://classifieds.wral.com/category/195/Boats.html-----------> spam
+url->http://classifieds.wral.com/category/196/Cars.html-----------> spam
+url->http://shop.a2ztrade.in/Mobile-And-Mobile-Accessories-----------> spam
+url->http://classifieds.wral.com/category/197/Motorcycles.html-----------> spam
+url->http://shop.a2ztrade.in/Real-Aroma-BlackBerry-Ultra-Facial-Kit-----------> spam
+url->http://classifieds.wral.com/category/199/Parts_and_Accessories.html-----------> spam
+url->http://shop.a2ztrade.in/Real-Aroma-Mix-Fruit-Spa-Facial-Kit-----------> spam
+url->http://classifieds.wral.com/category/200/RVs.html-----------> spam
+url->http://shop.a2ztrade.in/Real-Aroma-Diamond-Spa-Facial-Kit-----------> spam
+url->http://shop.a2ztrade.in/Real-Aroma-Oxygen-Spa-Facial-Kit-----------> spam
+url->http://classifieds.wral.com/category/201/Trailers.html-----------> spam
+url->http://shop.a2ztrade.in/Pearl-Spa-Facial-Kit-Aroma-----------> spam
+url->http://classifieds.wral.com/category/15/Cars_and_Trucks.html-----------> spam
+url->http://shop.a2ztrade.in/24K-Gold-Kit-Real-Aroma-----------> spam
+url->http://shop.a2ztrade.in/Pihlips-Shaver-Philips-Shaver-----------> spam
+url->http://classifieds.wral.com/category/205/Announcements.html-----------> spam
+url->http://classifieds.wral.com/category/294/Auctions.html-----------> spam
+url->http://shop.a2ztrade.in/Intex-Aqua-Xtreme-32GB-Internal-Memory-2GB-Rom-13MP-Camera-----------> spam
+url->http://www.tripod.lycos.co.uk/services/siteBuilder.tmpl-----------> spam
+url->http://shop.a2ztrade.in/Zalak-Veg-Cutter-----------> spam
+url->http://classifieds.wral.com/category/206/Lost_and_Found.html-----------> spam
+url->http://shop.a2ztrade.in/Famous-Veg-Cutter-----------> spam
+url->http://shop.a2ztrade.in/Krishna-2-in-1-Slicer-And-Grater-----------> spam
+url->http://classifieds.wral.com/category/293/Public_Service.html-----------> spam
+url->http://shop.a2ztrade.in/Shri-Sankatmochan-Hanuman-Yantra ------------->  not spam
+url->http://classifieds.wral.com/category/302/Other.html-----------> spam
+url->http://shop.a2ztrade.in/Renox-Ladies-Watch-12-Design-----------> spam
+url->http://www.tripod.lycos.co.uk/bin/styleCatalog-----------> spam
+url->http://classifieds.wral.com/category/177/Community.html-----------> spam
+url->http://shop.a2ztrade.in/Diya-Ivory-Dial-Stainless-Steel-Straps-Watch-----------> spam
+url->http://classifieds.wral.com/category/207/Antiques.html-----------> spam
+url->http://www.tripod.lycos.co.uk/services/addons.tmpl-----------> spam
+url->http://classifieds.wral.com/category/14/Real_Estate.html-----------> spam
+url->http://classifieds.wral.com/category/208/Appliances.html-----------> spam
+url->http://classifieds.wral.com/category/261/Apartments.html-----------> spam
+url->http://classifieds.wral.com/category/262/Condos.html-----------> spam
+url->http://classifieds.wral.com/category/264/Rentals_Wanted.html-----------> spam
+url->http://classifieds.wral.com/category/210/Books.html-----------> spam
+url->http://classifieds.wral.com/category/265/Roommates_Sought.html-----------> spam
+url->http://classifieds.wral.com/category/266/Vacation_Property.html-----------> spam
+url->http://classifieds.wral.com/category/211/Clothes.html-----------> spam
+url->http://classifieds.wral.com/category/212/Collectibles.html-----------> spam
+url->http://classifieds.wral.com/category/307/Other.html-----------> spam
+url->http://classifieds.wral.com/category/213/Computers_and_Accessories.html-----------> spam
+url->http://classifieds.wral.com/category/170/Rentals.html-----------> spam
+url->http://classifieds.wral.com/category/179/Items_for_Sale.html-----------> spam
+url->http://classifieds.wral.com/category/267/Auto.html-----------> spam
+url->http://classifieds.wral.com/category/248/Birds.html-----------> spam
+url->http://classifieds.wral.com/category/249/Cats.html-----------> spam
+url->http://classifieds.wral.com/category/300/Barter.html-----------> spam
+url->http://classifieds.wral.com/category/250/Dogs.html-----------> spam
+url->http://classifieds.wral.com/category/268/Child_and_Elderly_Care.html-----------> spam
+url->http://classifieds.wral.com/category/251/Horses.html-----------> spam
+url->http://classifieds.wral.com/category/269/Cleaning.html-----------> spam
+url->http://classifieds.wral.com/category/253/Pet_Supplies.html-----------> spam
+url->http://classifieds.wral.com/category/270/Construction.html-----------> spam
+url->http://classifieds.wral.com/category/271/Everything_Else.html-----------> spam
+url->http://classifieds.wral.com/category/254/Pets_Wanted.html-----------> spam
+url->http://domains.lycos.co.uk/-----------> spam
+url->http://classifieds.wral.com/category/272/Financial.html-----------> spam
+url->http://classifieds.wral.com/category/252/Other_Pets.html-----------> spam
+url->http://classifieds.wral.com/category/191/Services.html-----------> spam
+url->http://classifieds.wral.com/category/16/Pets.html-----------> spam
+url->http://classifieds.wral.com/category/288/Cumberland_County.html-----------> spam
+url->http://classifieds.wral.com/category/255/Businesses.html-----------> spam
+url->http://www.weatherzombie.com/-----------> spam
+url->http://classifieds.wral.com/category/289/Durham_County.html-----------> spam
+url->http://classifieds.wral.com/category/256/Condos_and_Townhomes.html-----------> spam
+url->http://classifieds.wral.com/category/290/Johnston_County.html-----------> spam
+url->http://classifieds.wral.com/category/257/Land_and_Farms.html-----------> spam
+url->http://advertising.lycos.com/-----------> spam
+url->http://classifieds.wral.com/category/296/Orange_County.html-----------> spam
+url->http://classifieds.wral.com/category/258/Real_Estate_Wanted.html-----------> spam
+url->http://classifieds.wral.com/category/292/Wake_County.html-----------> spam
+url->http://classifieds.wral.com/category/259/SingleFamily_Homes.html-----------> spam
+url->http://classifieds.wral.com/category/291/Other_Counties.html-----------> spam
+url->http://classifieds.wral.com/category/260/Vacation.html-----------> spam
+url->http://classifieds.wral.com/category/193/Yard_Sales.html-----------> spam
+url->http://classifieds.wral.com/category/306/Other.html-----------> spam
+url->http://www.wral.com/news/rss/48/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2F-----------> spam
+url->http://www.wral.com/raleigh-man-climbing-on-mt-everest-uninjured-in-avalanche-following-earthquake/14605010/-----------> spam
+url->http://www.lycos.co.uk/-----------> spam
+url->http://www.wral.com/8-dead-as-quake-triggered-avalanche-sweeps-everest/14604892/ ------------->  not spam
+url->http://www.wral.com/committee-gives-nod-to-mobile-beauty-salons/14601685/ ------------->  not spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fmarketplace%2Femployment%2F-----------> spam
+url->http://www.wral.com/seriously-silly-monty-python-reunites-for-a-weekend-tribute/14604091/ ------------->  not spam
+url->http://www.wral.com/sawyer-sweeten-of-everybody-loves-raymond-dies-at-19/14603256/-----------> spam
+url->http://www.wral.com/costly-controversial-lawmakers-have-just-months-to-tame-medicaid-beast/14603711/ ------------->  not spam
+url->http://www.wral.com/angelina-jolie-rips-world-powers-on-syria-s-refugee-crisis/14603376/ ------------->  not spam
+url->http://www.wral.com/marketplace/employment/?content-----------> spam
+url->http://www.wral.com/barbecue-kicks-off-fayetteville-s-dogwood-festival/14603780/-----------> spam
+url->http://www.wral.com/news/video/1082826/ ------------->  not spam
+url->http://www.wral.com/one-killed-one-injured-in-3-vehicle-wreck-in-south-durham/14604897/-----------> spam
+url->http://www.wral.com/wral-tv/asset_gallery/10869763/ ------------->  not spam
+url->http://wwwcache.wral.com/presentation/v3/styles/vendor/zf/zf.css-----------> spam
+url->http://www.wral.com/raleigh_party_pics/13365466/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2F5onyourside%2Fsmartshopper%2F&s=password_recovery-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2F5onyourside%2Fsmartshopper%2F&s=registration-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto-----------> spam
+url->http://www.wral.com/lifestyles/food/image_gallery/14603640/-----------> spam
+url->http://www.wral.com/lifestyles/pets/page/1012043/-----------> spam
+url->http://www.wral.com/news/local/image_gallery/14602900/-----------> spam
+url->http://www.wral.com/news/asset_gallery/13152146/ ------------->  not spam
+url->http://www.wral.com/florist-cultivates-growth-in-warsaw/14603171/-----------> spam
+url->http://www.wral.com/civil-war-s-end-at-bennett-place-led-to-durham-s-birth/14599605/-----------> spam
+url->http://www.wral.com/patience-builds-intricate-model-ships-for-lumberton-man/14597248/-----------> spam
+url->http://www.wral.com/starbucks-computer-outage-fixed-stores-to-reopen-saturday/14604812/ ------------->  not spam
+url->http://www.wral.com/man-charged-with-dwi-in-granville-county-tractor-trailer-crash-/14604457/-----------> spam
+url->http://www.wral.com/Documentary/Monkey-Kingdom/14565450/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14586024/-----------> spam
+url->http://www.wral.com/durham-academy-hosts-special-olympics-event-for-30th-year/14603271/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/video/14604100/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14596613/-----------> spam
+url->http://www.wral.com/lynch-s-mother-new-ag-will-be-best-they-ve-ever-had-/14604118/ ------------->  not spam
+url->http://www.wral.com/duke-children-s-service-dog-make-a-big-difference-to-sick-child-s-care/14603812/-----------> spam
+url->http://www.wral.com/health-officials-say-ice-cream-is-safe-despite-some-recalls/14604785/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14314621/-----------> spam
+url->http://www.wral.com/recipe-baked-sweet-and-sour-chicken/14598793/ ------------->  not spam
+url->http://www.wral.com/chilean-village-a-ghost-town-after-calbuco-s-twin-eruptions/14602574/ ------------->  not spam
+url->http://www.wral.com/protesters-plan-to-shut-down-baltimore-as-questions-remain/14604704/ ------------->  not spam
+url->http://www.wral.com/destination-pedestrian-bridge-over-interstate-40/14601376/ ------------->  not spam
+url->http://www.wral.com/more-than-12-hurt-as-stage-collapses-at-indiana-high-school/14602739/ ------------->  not spam
+url->http://www.wral.com/mark-your-calendar-cary-s-night-out/14581588/-----------> spam
+url->http://www.wral.com/2009-memo-describes-concerns-about-oklahoma-reserve-deputy/14604702/ ------------->  not spam
+url->http://www.wral.com/Music/Art-of-Cool-Festival/14537871/-----------> spam
+url->http://www.wral.com/as-contributions-fall-house-gop-rebels-blame-party-leaders/14604954/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14399230/-----------> spam
+url->http://www.wral.com/weekend-plans-strawberries-science-fest-farm-tours/14596340/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14599574/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14525002/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14399177/-----------> spam
+url->http://www.wral.com/moms-night-option-bunco-charity-night/14596167/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14565858/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14594611/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14568699/-----------> spam
+url->http://www.wral.com/hawaii-poised-to-become-1st-state-to-raise-smoking-age-to-21/14604218/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14595845/-----------> spam
+url->http://www.wral.com/thursday-wrap-last-breather-before-crossover-rush/14602166/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14124032/-----------> spam
+url->http://www.wral.com/unusual-ice-cream-recalls-raise-questions-about-cause/14602738/ ------------->  not spam
+url->http://www.wral.com/legislative-leaders-say-controversial-religious-freedom-bills-not-moving/14601758/ ------------->  not spam
+url->http://www.wral.com/nc-house-approves-three-day-abortion-waiting-period/14601698/-----------> spam
+url->http://www.wral.com/byob-it-s-brew-your-own-beer-at-some-colleges/14602649/ ------------->  not spam
+url->http://www.wral.com/5onyourside/video/14604191/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14485229/-----------> spam
+url->http://www.wral.com/consumer-reports-brinkmann-grill-fails-safety-test/14599539/-----------> spam
+url->http://www.wral.com/wral-tv/video/14605009/-----------> spam
+url->http://www.wral.com/Restaurants-Bars/The-Firestarters-at-Death-Taxes-Matthew-Kelly/14533758/-----------> spam
+url->http://www.wral.com/wral-tv/video/14604906/-----------> spam
+url->http://www.wral.com/wral-tv/video/14604947/ ------------->  not spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fnews%2Flocal%2F-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14333163/-----------> spam
+url->http://www.wral.com/news/local/video/14604220/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/event/14171106/-----------> spam
+url->http://www.wral.com/raleigh-city-council-formally-approves-dix-contract/14603214/ ------------->  not spam
+url->http://www.wral.com/news/state/nccapitol/video/14604212/-----------> spam
+url->http://www.wral.com/crews-putting-final-touches-on-i-440-west-in-fortify-zone/14603385/-----------> spam
+url->http://www.wral.com/news/local/video/14604254/-----------> spam
+url->http://www.wral.com/news/local/asset_gallery/13125609/ ------------->  not spam
+url->http://www.wral.com/runaway-fayetteville-teen-returns-home-safely/14604042/-----------> spam
+url->http://www.wral.com/news/state/nccapitol/video/14604225/-----------> spam
+url->http://www.wral.com/suspect-identified-in-february-spring-lake-homicide/14602158/-----------> spam
+url->http://www.wral.com/5onyourside/video/14604266/ ------------->  not spam
+url->http://www.wral.com/nascar-s-kahne-takes-a-different-kind-of-ride-at-fort-bragg/14602009/-----------> spam
+url->http://www.wral.com/powerful-earthquake-strikes-nepal-things-to-know/14605045/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/event/14500051/-----------> spam
+url->http://www.wral.com/the-world-s-strongest-earthquakes-since-1900/14604822/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=73&keywords=Keyword%2C%2BEvent%2Bor%2BVenue&location=City%2Bor%2BZIP&page_number=1-----------> spam
+url->http://www.wral.com/key-facts-about-nepal-site-of-magnitude-7-9-quake/14604800/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/page/4853892/?categories=77&keywords=Keyword%2C%2BEvent%2Bor%2BVenue&location=City%2Bor%2BZIP&page_number=1-----------> spam
+url->http://www.wral.com/thousands-honor-soldiers-on-100th-year-of-gallipoli-battle/14604567/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/blog/10033303/-----------> spam
+url->http://www.wral.com/italy-marks-70th-anniversary-of-anti-nazi-uprising/14604781/-----------> spam
+url->http://www.wral.com/each-death-in-baltimore-makes-mistrust-harder-to-overcome/14605067/ ------------->  not spam
+url->http://classifieds.wral.com/index.php?a=2&b=1504587-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1505272-----------> spam
+url->http://www.wral.com/fayetteville/-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1503925-----------> spam
+url->http://www.wral.com/police-garner-man-sent-child-porn-to-detective/14603977/-----------> spam
+url->http://www.wral.com/grifton-teen-charged-in-school-bus-knife-fight/14603664/-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1504392-----------> spam
+url->http://www.wral.com/man-who-walked-out-of-moore-co-sheriff-s-office-captured/14602844/-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1500724-----------> spam
+url->http://www.wral.com/ga-woman-charged-in-nc-medicaid-fraud-scheme/14602051/-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1503547-----------> spam
+url->http://classifieds.wral.com/index.php?a=2&b=1501980-----------> spam
+url->http://www.wral.com/public-boarding-school-the-way-to-solve-educational-ills-/14605079/ ------------->  not spam
+url->http://www.wral.com/news/rss/142/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fnews%2F-----------> spam
+url->http://www.wral.com/marathon-bomber-trial-casts-focus-on-boston-muslims/14605065/ ------------->  not spam
+url->http://www.wral.com/same-sex-marriage-pioneer-among-lawyers-for-high-court-cases/14604949/ ------------->  not spam
+url->http://www.wral.com/federal-report-outlines-problems-solutions-for-durhams-violent-crime/14599817/ ------------->  not spam
+url->http://www.wral.com/bill-under-debate-would-limit-farm-antibiotics-in-oregon/14605117/ ------------->  not spam
+url->http://www.wral.com/suspect-identified-in-february-spring-lake-homicide/14599696/-----------> spam
+url->http://www.wral.com/as-theater-shooting-trial-opens-gun-debate-dwindles/14605088/ ------------->  not spam
+url->http://www.wral.com/winners-and-losers-of-the-demise-of-the-big-comcast-deal/14604147/ ------------->  not spam
+url->http://www.wral.com/stocks-rise-on-tech-earnings-nasdaq-adds-to-record/14603268/ ------------->  not spam
+url->http://www.wral.com/boosters-seek-more-retail-for-downtown-raleigh/14604061/-----------> spam
+url->http://www.wral.com/cheaper-fuel-has-airlines-soaring-to-record-profits/14603881/ ------------->  not spam
+url->http://www.wral.com/controversial-guardrails-continue-to-pass-safety-tests/14512524/ ------------->  not spam
+url->http://www.wral.com/guardrail-blamed-in-deaths-banned-in-nearly-every-state-but-nc/14435163/ ------------->  not spam
+url->http://www.wral.com/oil-gas-power-prices-big-themes-from-energy-meeting/14603687/ ------------->  not spam
+url->http://www.wral.com/wral-investigates-lifesaver-or-life-taker-/14428597/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/image_gallery/14602365/-----------> spam
+url->http://www.wral.com/wake-high-school-provides-jump-start-on-technical-training/14603785/-----------> spam
+url->http://www.wral.com/damaged-pipe-forces-closure-of-johnson-pond-road-in-southern-wake-county/14595563/-----------> spam
+url->http://www.wral.com/insurance-tax-higher-fees-may-pave-nc-highways/14589310/ ------------->  not spam
+url->http://www.wral.com/entertainment/image_gallery/14597596/-----------> spam
+url->http://www.wral.com/cool-rainy-weekend-ahead-after-beautiful-friday/14603147/-----------> spam
+url->http://www.wral.com/morrisville-planning-for-nc-54-expansion/14587225/ ------------->  not spam
+url->http://www.wral.com/online-applications-bypass-nc-concealed-carry-permit-process/14598637/ ------------->  not spam
+url->http://www.wral.com/house-votes-unanimously-to-repeal-map-act/14586967/ ------------->  not spam
+url->http://www.wral.com/city-asks-frustrated-drivers-for-patience-while-south-raleigh-bridge-is-replaced/14601830/-----------> spam
+url->http://www.wralsportsfan.com/unc/image_gallery/14594940/-----------> spam
+url->http://www.wral.com/entertainment/out_and_about/image_gallery/14593172/-----------> spam
+url->http://www.wral.com/singer-roger-daltrey-gives-back-to-teens-through-cancer-charity/14599642/ ------------->  not spam
+url->http://www.wral.com/rs/page/2173159/?forwardto=http%3A%2F%2Fwww.wral.com%2Fnews%2Fstate%2F-----------> spam
+url->http://www.wral.com/police-distracted-driving-led-to-wake-school-bus-crash/14599588/ ------------->  not spam
+url->http://www.wral.com/entertainment/out_and_about/image_gallery/14590338/-----------> spam
+url->http://www.wral.com/rs/page/2173159/?register=1-----------> spam
+url->http://www.wral.com/lifestyles/goaskmom/image_gallery/14584390/-----------> spam
+url->http://www.wral.com/western-carolina-suspends-fraternity-amid-hazing-allegations/14602915/-----------> spam
+url->http://www.wral.com/news/local/image_gallery/14588221/-----------> spam
+url->http://www.wral.com/committee-rejects-public-funds-for-charter-school-buildings/14601439/ ------------->  not spam
+url->http://www.wralsportsfan.com/bulls/image_gallery/14584840/-----------> spam
+url->http://www.wral.com/senate-bill-would-limit-teachers-political-activity/14599183/-----------> spam
+url->http://www.wral.com/currituck-county-volunteer-fire-department-employs-drone/14600072/ ------------->  not spam
+url->http://www.wral.com/six-hatteras-island-homes-deemed-unsafe-for-occupancy/14603860/-----------> spam
+url->http://www.wral.com/hackers-hit-wake-public-schools-server/14599060/ ------------->  not spam
+url->http://www.wral.com/court-could-order-police-video-release-in-nc-house-bill/14603789/ ------------->  not spam
+url->http://www.wral.com/proposal-would-loosen-parking-rules-on-glenwood-south/14596005/ ------------->  not spam
+url->http://www.wral.com/raleigh-city-council-approves-dix-park-purchase-from-nc/14603766/-----------> spam
+url->http://www.wral.com/zoning-commission-approves-plan-to-turn-raleigh-church-into-a-restaurant/14518946/-----------> spam
+url->http://www.wral.com/news/state/asset_gallery/13125639/ ------------->  not spam
+url->http://www.wral.com/raleigh-council-considers-ban-on-skating-at-memorial-site-/14505276/-----------> spam
+url->http://www.wral.com/raleigh-mayor-emphasizes-growth-in-state-of-city-address/14505275/-----------> spam
+url->http://www.wral.com/raleigh-wants-more-hotel-rooms-downtown/14436908/ ------------->  not spam
+url->http://www.wral.com/news/local/asset_gallery/14033660/ ------------->  not spam
+url->http://www.wral.com/clemmons-home-where-remains-found-demolished/14605116/-----------> spam
+url->http://www.wral.com/coaches-parents-wake-schools-budget-proposal-a-bare-minimum-/14597225/ ------------->  not spam
+url->http://www.wral.com/dot-subcontractor-charged-in-motorcyclist-death-near-clayton/14605063/-----------> spam
+url->http://www.wral.com/authorities-2-killed-1-hurt-in-n-carolina-police-chase/14605040/-----------> spam
+url->http://www.wral.com/nc-experts-to-review-what-rocks-reveal-about-early-man/14604829/-----------> spam
+url->http://www.wral.com/ceremony-for-vietnam-50th-anniversary-to-be-held-at-lejeune/14604826/-----------> spam
+url->http://www.wral.com/nc-event-marks-150-years-since-largest-confederate-surrender/14604782/-----------> spam
+url->http://www.wral.com/wake-school-board-wants-to-make-snow-days-easier-to-plan/14596669/ ------------->  not spam
+url->http://www.wral.com/nc-firearms-laws/14601590/-----------> spam
+url->http://www.wral.com/one-year-after-gaming-raids-cases-dropped-against-some-nc-businesses/14541781/ ------------->  not spam
+url->http://www.wral.com/proposal-would-outlaw-holding-cellphone-while-driving-in-nc/14539587/ ------------->  not spam
+url->http://www.wral.com/feds-investigate-medicaid-billing-cars-of-former-nc-state-football-player/14520661/ ------------->  not spam

@@ -1,0 +1,6 @@
+http://www.bing.com/news/search?q=tourism
+https://docs.oracle.com/en/
+http://www.bing.com/search?q=tourism
+https://www.android.com/
+http://www.ubuntu.com/
+http://www.bing.com/search?q=education
