@@ -1,0 +1,15 @@
+Take lines from DataSet.txt one by one.
+Select each word, if not in stop words' list, then add to HashMap Data Structure.
+Sort the hash map.
+Output the sorted hash map as inverted index dictionary to InvertedIndex.txt
+For each key value in dictionary create permutes and add to PermuteTermIndex.txt
+
+We are now ready to execute wild card query.
+
+Take the wild card query, add '$' and process it to bring * in the end.
+For every line in PermuteTermIndex.txt, check if first word of the line ends with
+the search query.
+If yes, get the second word of the line, get its posting list and print the respective 
+lines from DataSet.txt based on the list.
+
+If nothing matches the document is blank.
